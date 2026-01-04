@@ -1,5 +1,5 @@
-# calculator-
-Basic calculator in c programming
+//# calculator-
+//Basic calculator in c programming
 
 #include <iostream>
 #include <string>
